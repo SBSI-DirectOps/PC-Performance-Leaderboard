@@ -3,7 +3,7 @@
   "timezone": "America/Denver",
   "fiscalYear": "FY26",
   "fiscalYearLabel": "2025-2026",
-  "exportedAt": "Oct 9, 2026, 08:58 AM MDT",
+  "exportedAt": "Oct 9, 2026, 09:20 AM MDT",
   "currentWW": 39,
   "coordActive": {
     "LTD": false,
@@ -220,7 +220,7 @@
       "code": "JTZ",
       "name": "Jose Pio Castro",
       "fn": "Inspection",
-      "ncg": false,
+      "ncg": true,
       "isSup": false,
       "isTrainee": true,
       "dailyTarget": 60,
@@ -240,7 +240,7 @@
       "code": "ARD",
       "name": "Alzech Ruzner Dela Cuesta",
       "fn": "Inspection",
-      "ncg": false,
+      "ncg": true,
       "isSup": false,
       "isTrainee": true,
       "dailyTarget": 11,
@@ -250,7 +250,7 @@
       "code": "KCP",
       "name": "Kenneth Pagalilawan",
       "fn": "Permitting",
-      "ncg": false,
+      "ncg": true,
       "isSup": false,
       "isTrainee": true,
       "dailyTarget": 5,
@@ -270,7 +270,7 @@
       "code": "AMV",
       "name": "Audrey Villafranca",
       "fn": "Process Excellence",
-      "ncg": false,
+      "ncg": true,
       "isSup": false,
       "isTrainee": true,
       "dailyTarget": 1,
@@ -290,7 +290,7 @@
       "code": "HSN",
       "name": "Hannah Mariie Nepomuceno",
       "fn": "Permitting",
-      "ncg": false,
+      "ncg": true,
       "isSup": false,
       "isTrainee": true,
       "dailyTarget": 5,
@@ -310,7 +310,7 @@
       "code": "KVM",
       "name": "Kevin Hans Mirabel",
       "fn": "Inspection",
-      "ncg": false,
+      "ncg": true,
       "isSup": false,
       "isTrainee": true,
       "dailyTarget": 2.5,
@@ -320,7 +320,7 @@
       "code": "JFA",
       "name": "Josh Daniel Abaquita",
       "fn": "Utilities",
-      "ncg": false,
+      "ncg": true,
       "isSup": false,
       "isTrainee": true,
       "dailyTarget": 6,
@@ -373,7 +373,7 @@
       "dailyTarget": 10
     },
     "KLS": {
-      "ncg": false
+      "ncg": true
     }
   },
   "dynamicFunctions": [
